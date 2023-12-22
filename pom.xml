@@ -32,7 +32,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.20.1-R0.1-SNAPSHOT</version>
+            <version>1.20.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -46,12 +46,6 @@
             <artifactId>api</artifactId>
             <version>v1.0.0</version>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.bstats</groupId>
-            <artifactId>bstats-bukkit</artifactId>
-            <version>3.0.2</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 
@@ -82,10 +76,6 @@
                             <relocations>
                                 <relocation>
                                     <pattern>com.imjustdoom</pattern>
-                                    <shadedPattern>better.defusal</shadedPattern>
-                                </relocation>
-                                <relocation>
-                                    <pattern>org.bstats</pattern>
                                     <shadedPattern>better.defusal</shadedPattern>
                                 </relocation>
                             </relocations>

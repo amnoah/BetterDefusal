@@ -4,7 +4,6 @@ import better.defusal.commands.BetterDefusalCommand;
 import better.defusal.listener.InteractListener;
 import better.defusal.listener.ReloadListener;
 import com.imjustdoom.cmdinstruction.CMDInstruction;
-import org.bstats.bukkit.Metrics;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.event.HandlerList;
