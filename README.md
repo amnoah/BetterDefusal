@@ -3,7 +3,7 @@
 BetterDefusal allows you to "defuse" lit TNT and TNT minecarts with a configurable wire cutter.
 
 Did you accidentally set off a TNT block too soon, putting your entire contraption at risk? Fear not! Simply unleash 
-your inner defusing bomb squad, save the day, and keep all your progress intact – because who said defusing explosives 
+your inner bomb squad, save the day, and keep all your progress intact – because who said defusing explosives 
 can't be a blast?
 
 # Dependencies
