@@ -13,7 +13,7 @@ can't be a blast?
 
 - '/BetterDefusal' - Display the installed version.
 - '/BetterDefusal Reload' - Reload the configuration file.
-- '/BetterDefusal SetItem <Item>' - Set the wire cutter item.
+- '/BetterDefusal SetItem' - Set the wire cutter item.
 
 # Permissions
 

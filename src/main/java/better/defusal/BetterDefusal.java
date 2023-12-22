@@ -4,6 +4,7 @@ import better.defusal.commands.BetterDefusalCommand;
 import better.defusal.listener.InteractListener;
 import better.defusal.listener.ReloadListener;
 import com.imjustdoom.cmdinstruction.CMDInstruction;
+import org.bstats.bukkit.Metrics;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.event.HandlerList;
@@ -69,6 +70,7 @@ public class BetterDefusal extends JavaPlugin {
     @Override
     public void onEnable() {
         instance = this;
+        new Metrics(this, 20535);
 
         CMDInstruction.registerCommands(this, new BetterDefusalCommand());
 

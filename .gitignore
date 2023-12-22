@@ -25,6 +25,4 @@ replay_pid*
 
 # IntelliJ folders
 /.idea
-/api/target
-/example/target
-/plugin/target
+target
