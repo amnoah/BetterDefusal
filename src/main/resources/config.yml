@@ -1,0 +1,6 @@
+# Should the player be able to break all falling blocks using the item?
+all-blocks: false
+# What item should be used for defusals?
+defusal-item: shears
+# Should durability usage be applied when a defusal is performed?
+use-durability: true

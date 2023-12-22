@@ -1,0 +1,20 @@
+name: BetterDefusal
+version: 1.0.0
+main: better.defusal.BetterDefusal
+api-version: 1.13
+authors: [am noah]
+softdepend:
+  - BetterReload
+
+permissions:
+  better.defusal.command:
+    default: op
+    description: Allows user to use BetterDefusal commands.
+  better.defusal.use:
+    default: true
+    description: Allows user to defuse tnt.
+
+commands:
+  betterdefusal:
+    description: For all your BetterDefusal needs!
+    permission: better.defusal.command
