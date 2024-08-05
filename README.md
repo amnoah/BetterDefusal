@@ -19,3 +19,9 @@ can't be a blast?
 
 - 'better.defusal.commands' - Allows the player to use the commands.
 - 'better.defusal.use' - Allows the player to use wire cutters (given by default).
+
+# support
+
+For general support, please join my [Discord server](https://discord.gg/ey9uTg3hcy).
+
+For issues with the project, please open an issue in the issues tab.
